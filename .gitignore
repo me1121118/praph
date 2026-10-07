@@ -1,0 +1,16 @@
+# Arduino / PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+.clangd/
+build/
+*.bin
+*.hex
+*.elf
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp
+*~
+*.DS_Store
