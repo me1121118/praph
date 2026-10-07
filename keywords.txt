@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Praph
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Praph	KEYWORD1
+PraphClass	KEYWORD1
+PraphConfig	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+run	KEYWORD2
+toggleOutput	KEYWORD2
+setOutput	KEYWORD2
+sendSensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
